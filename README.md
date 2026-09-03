@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./profile-banner.png" width="100%" />
+</div>
 # Hi 👋, I'm Supty Sharmin  
 ### 🔭 I build things with JavaScript, React, and Node.js
 

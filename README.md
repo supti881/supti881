@@ -45,9 +45,7 @@ Right now, I'm focused on strengthening my knowledge in **web development**, **s
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats  
+--- 
 
 ## 📊 GitHub Stats  
 

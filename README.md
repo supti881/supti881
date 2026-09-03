@@ -1,4 +1,4 @@
-<img src="./profile-banner.png" width="100%" alt="Header Banner" />
+<img src="./new-banner.png" width="100%" alt="Header Banner" />
 
 <br>
 <br>

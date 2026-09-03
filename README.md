@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="./profile-banner.png" width="100%" />
-</div>
+<img src="./profile-banner.png" width="100%" alt="Header Banner" />
+
+<br>
+<br>
+
 # Hi 👋, I'm Sharmin Akter
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&width=500&lines=Computer+Science+Student;Web+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&width=500&lines=Computer+Science+Student;Web+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
+</a>
 ---
 
 ## 👨‍💻 About Me  
